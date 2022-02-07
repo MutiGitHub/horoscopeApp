@@ -1,0 +1,2 @@
+# horoscopeApp
+ horoscopeApplication
